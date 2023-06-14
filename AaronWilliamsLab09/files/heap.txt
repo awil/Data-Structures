@@ -1,0 +1,70 @@
+d 
+i 40
+r 
+i 28
+r 
+i 13
+i 32
+r 
+i 45
+i 30
+i 48
+r 
+r 
+i 39
+i 40
+i 32
+r 
+i 33
+i 42
+i 4
+d 
+d 
+r 
+i 42
+i 33
+r 
+d 
+i 16
+r 
+i 27
+r 
+d 
+i 22
+r 
+i 23
+i 13
+i 43
+i 37
+i 19
+i 35
+i 45
+i 28
+r 
+r 
+i 9
+r 
+i 5
+i 42
+i 42
+d 
+i 5
+i 38
+d 
+i 10
+i 9
+i 28
+i 43
+r 
+i 47
+r 
+i 14
+r 
+r 
+d 
+r 
+i 1
+r 
+d 
+i 32
+d 

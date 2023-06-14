@@ -1,0 +1,23 @@
+i 13
+i 17
+r
+i 7
+d
+i 16
+i 14
+r
+r
+d
+r
+i 7
+d
+i 15
+d
+r
+r
+i 16
+i 6
+r
+d
+i 5
+d
